@@ -1,0 +1,20 @@
+{
+  "name": "d10",
+  "version": "",
+  "description": "",
+  "main": "drdesafio10.js",
+  "scripts": {
+    "start": "node ./src/drdesafio10.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2",
+    "knex": "^0.95.6",
+    "mysql": "^2.18.1",
+    "socket.io": "^4.1.2",
+    "sqlite3": "^5.0.2"
+  }
+}
